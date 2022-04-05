@@ -1,7 +1,7 @@
-# Obidin-Sergey
+# OSA85
 
-* Всем привет!!! Меня зовут Обидин Сергей и я Junior QA Automation Engineer.
-* [Дипломный проект](https://github.com/OSA85/AQA_Diplom) его цели и задачи
+* Всем привет!!! Меня зовут **`Обидин Сергей`** и я Junior QA Automation Engineer.
+* [Дипломный проект](https://github.com/OSA85/AQA_Diplom) его цели и задачи и их решение
 #### Мои контакты
 - +7(905)031-88-22
 - player85@bk.ru
