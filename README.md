@@ -1,11 +1,12 @@
 # Обидин Сергей
 
-* Всем привет!!! Меня зовут **`Обидин Сергей`** и я Junior QA Automation Engineer.
-* [Дипломный проект](https://github.com/OSA85/AQA_Diplom) его цели и задачи и их решение
+*  :wave: Всем привет!!! Меня зовут **`Обидин Сергей`** и я Junior QA Automation Engineer.
+*  :house: Мой родной город Саратов, здесь пока и живу...
+*  :books: [Дипломный проект](https://github.com/OSA85/AQA_Diplom) его цели и задачи и их решение
 #### Мои контакты
-- +7(905)031-88-22
-- player85@bk.ru
-- [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=77aa16a6ff003fa2cd0039ed1f736563726574)
+- :iphone: +7(905)031-88-22
+- :e-mail: player85@bk.ru
+- :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=77aa16a6ff003fa2cd0039ed1f736563726574)
 
 ## Свидетельство о прохождении курсов 
 
