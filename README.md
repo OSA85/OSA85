@@ -14,7 +14,8 @@
 
 ## Свидетельство о прохождении курсов 
 
-![loading-4](https://user-images.githubusercontent.com/91024430/161723575-a3355148-82d2-409b-8c04-a56cb2e755a7.gif)
+![тестировщик ПО](https://user-images.githubusercontent.com/91024430/161815973-e3a6eb63-64b1-46e8-9616-0c84b92b2395.jpg)
+
 
 ## Освоенные инструменты изученные на курсе
 ![Освоенные инструменты](https://user-images.githubusercontent.com/91024430/161751035-a2cf16de-573c-49f5-aee0-1a53500b9085.jpg)
