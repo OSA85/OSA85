@@ -9,8 +9,11 @@
 
 #### Мои контакты
 - :iphone: +7(905)031-88-22
-- :e-mail: player85@bk.ru
-- :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=77aa16a6ff003fa2cd0039ed1f736563726574)
+- :memo: VIBER +7(905)031-88-22
+- :memo: WhatsApp +7(905)031-88-22
+- :e-mail: obidinsa@mail.ru
+- :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=6fe1306cff09d49ab50039ed1f7a636d433232)
+- :scroll: [Резюме на Habr.com](https://career.habr.com/player85)
 
 ## Свидетельство о прохождении курсов 
 
