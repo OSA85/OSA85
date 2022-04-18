@@ -14,7 +14,7 @@
 - :e-mail: obidinsa@mail.ru
 - :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=6fe1306cff09d49ab50039ed1f7a636d433232)
 - :scroll: [Резюме на Habr.com](https://career.habr.com/player85)
-- :scroll: [Резюме PDF](https://drive.google.com/file/d/1snP0iJ5gB7mE8DIvPxCFDS4gFqSeY9LO/view?usp=sharing)
+- :scroll: [Резюме PDF](https://drive.google.com/file/d/1Uf9ehdYUw9FuLROXWxfoNMD5MYHb6Bor/view?usp=sharing)
 
 ## Свидетельство о прохождении курсов 
 
