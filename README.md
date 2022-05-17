@@ -16,7 +16,7 @@
 - :scroll: [LinkedIn](linkedin.com/in/sergey-obidin-29502323b)
 - :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=6fe1306cff09d49ab50039ed1f7a636d433232)
 - :scroll: [Резюме на Habr.com](https://career.habr.com/player85)
-- :scroll: [Резюме PDF](https://drive.google.com/file/d/1KrU3vvIp7cJZrlBbSmIyOsj-ix_aZCfo/view?usp=sharing)
+- :scroll: [Резюме PDF](https://drive.google.com/file/d/15qicAqs9FmAgtxsJu-dC99uNj0zuedY_/view?usp=sharing)
 
 ## Свидетельство о прохождении курсов 
 
