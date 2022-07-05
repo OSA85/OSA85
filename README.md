@@ -25,17 +25,19 @@
 
 ## Освоенные инструменты изученные на курсе
 ![Освоенные инструменты](https://user-images.githubusercontent.com/91024430/161751035-a2cf16de-573c-49f5-aee0-1a53500b9085.jpg)
-* Java
-* GitHub
-* Git
-* Selenium
+* [Java](https://github.com/OSA85/AQA_Diplom)
+* [GitHub](https://github.com/OSA85?tab=repositories)
+* [Git](https://github.com/OSA85/TerminalLinuxPartTwo)
+* [Selenium](https://github.com/OSA85/AQA_Selenium)
+* [TestNG](https://github.com/OSA85/AQA_1_1/tree/testng)
 * SQL
-* JUnit
-* IntelliJ IDEA
-* Docker
-* Postman
+* [JUnit](https://github.com/OSA85/AQA_1_1/tree/junit4)
+* [IntelliJ IDEA](https://github.com/OSA85/AQA_Diplom)
+* [Docker](https://github.com/OSA85/AQA_Docker_1)
+* [Postman](https://github.com/OSA85/Postman_HW_2)
 * JIRA
-* Report Portal
+* [Report Portal](https://github.com/OSA85/AQA_Report_Portal_1)
+* [JavaScript](https://github.com/OSA85/JS_HW_3)
 
 
 ## Дополнительные сертификаты на полученные во время обучения навыки
