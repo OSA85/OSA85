@@ -49,3 +49,7 @@
 
 ![Автоматизированное тестирование](https://user-images.githubusercontent.com/91024430/161722094-62b459cb-1ec8-46f6-97bc-2598d857d33d.jpg)
 
+
+![JavaScript для тестировщиков](https://user-images.githubusercontent.com/91024430/182791889-d39dab29-8e72-431c-be29-35ca351321be.jpg)
+
+
