@@ -22,6 +22,8 @@
 
 ![тестировщик ПО](https://user-images.githubusercontent.com/91024430/161815973-e3a6eb63-64b1-46e8-9616-0c84b92b2395.jpg)
 
+![stepik_certificate_SQL](https://user-images.githubusercontent.com/91024430/189958233-3cf39041-1bdb-4a3e-8063-1a77733f6512.jpg)
+
 
 ## Освоенные инструменты изученные на курсе
 ![Освоенные инструменты](https://user-images.githubusercontent.com/91024430/161751035-a2cf16de-573c-49f5-aee0-1a53500b9085.jpg)
@@ -30,7 +32,7 @@
 * [Git](https://github.com/OSA85/TerminalLinuxPartTwo)
 * [Selenium](https://github.com/OSA85/AQA_Selenium)
 * [TestNG](https://github.com/OSA85/AQA_1_1/tree/testng)
-* SQL
+* [SQL](https://stepik.org/cert/1662910)
 * [JUnit](https://github.com/OSA85/AQA_1_1/tree/junit4)
 * [IntelliJ IDEA](https://github.com/OSA85/AQA_Diplom)
 * [Docker](https://github.com/OSA85/AQA_Docker_1)
