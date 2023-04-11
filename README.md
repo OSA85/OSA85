@@ -15,7 +15,7 @@
 - :e-mail: obidinsa@mail.ru
 - :scroll: [LinkedIn](linkedin.com/in/sergey-obidin-29502323b)
 - :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=6fe1306cff09d49ab50039ed1f7a636d433232)
-- :scroll: [Резюме PDF](https://drive.google.com/file/d/1vABov9kvyAPCeWytVg3E1S3XyX2f1OXY/view?usp=share_link)
+- :scroll: [Резюме PDF](https://drive.google.com/file/d/1wi4EwLwUzP5zDV74nqVxPIihioWvBtJL/view?usp=sharing)
 - :scroll: [Резюме DOC](https://docs.google.com/document/d/1MqjQ-noMnCWAiIuyRdF-VNEncdyWWCpcYM5RXkICJiI/edit?usp=sharing)
 
 ## Свидетельство о прохождении курсов 
