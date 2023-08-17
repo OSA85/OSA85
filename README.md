@@ -27,7 +27,7 @@
 ![stepik_certificate_SQL](https://user-images.githubusercontent.com/91024430/189958233-3cf39041-1bdb-4a3e-8063-1a77733f6512.jpg)
 
 
-## Освоенные инструменты изученные на курсе
+## Освоенные изученные инструменты
 ![Освоенные инструменты](https://user-images.githubusercontent.com/91024430/161751035-a2cf16de-573c-49f5-aee0-1a53500b9085.jpg)
 * [Java](https://github.com/OSA85/AQA_Diplom)
 * [GitHub](https://github.com/OSA85?tab=repositories)
