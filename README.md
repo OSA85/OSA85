@@ -18,7 +18,9 @@
 - :scroll: [Резюме PDF](https://drive.google.com/file/d/1wi4EwLwUzP5zDV74nqVxPIihioWvBtJL/view?usp=sharing)
 - :scroll: [Резюме DOC](https://docs.google.com/document/d/1MqjQ-noMnCWAiIuyRdF-VNEncdyWWCpcYM5RXkICJiI/edit?usp=sharing)
 
-## Свидетельство о прохождении курсов 
+## Сертификаты курсов
+
+![Y_lab University](https://github.com/OSA85/OSA85/assets/91024430/f08656fb-96b1-4350-a7b9-3b85d830fba5)
 
 ![тестировщик ПО](https://user-images.githubusercontent.com/91024430/161815973-e3a6eb63-64b1-46e8-9616-0c84b92b2395.jpg)
 
