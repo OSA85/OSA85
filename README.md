@@ -13,7 +13,7 @@
 - :memo: VIBER +7(905)031-88-22
 - :memo: WhatsApp +7(905)031-88-22
 - :e-mail: obidinsa@mail.ru
-- :scroll: [LinkedIn](linkedin.com/in/sergey-obidin-29502323b)
+- :scroll: [LinkedIn](https://www.linkedin.com/in/sergey-obidin/)
 - :scroll: [Резюме на Hh.ru](https://saratov.hh.ru/applicant/resumes/view?resume=6fe1306cff09d49ab50039ed1f7a636d433232)
 - :scroll: [Резюме PDF](https://drive.google.com/file/d/1a-TkiTFKcRIDKeuw2g8iiTAVkRal7NcY/view?usp=sharing)
 - :scroll: [Резюме DOC](https://docs.google.com/document/d/1MqjQ-noMnCWAiIuyRdF-VNEncdyWWCpcYM5RXkICJiI/edit?usp=sharing)
